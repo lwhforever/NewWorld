@@ -1,1 +1,2 @@
 # NewWorld
+print "hello world"
